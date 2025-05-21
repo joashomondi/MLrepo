@@ -28,7 +28,7 @@ The goal of this project is to:
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - Load and read global raster datasets (e.g., DEM data).
 - Reproject and clip raster layers to match global boundaries.
@@ -38,7 +38,7 @@ The goal of this project is to:
 
 ---
 
-## 📸 Example Visualizations
+## Example Visualizations
 
 - Global topography maps using custom colormaps
 - Elevation histograms and distribution plots
@@ -46,7 +46,7 @@ The goal of this project is to:
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 1. Clone this repository or download the notebook.
 2. Ensure you have the required dependencies installed:
