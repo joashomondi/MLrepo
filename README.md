@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # TopoTool: Topographic Analysis Tool
 
+**TopoTool is an interactive Python-based Jupyter notebook that enables rapid topographic analysis for any location worldwide. By automatically retrieving high-resolution Digital Elevation Model (DEM) data, it calculates terrain parameters such as slope, flow accumulation, and Topographic Wetness Index (TWI), and overlays building footprint data. This helps users—such as urban planners, hydrologists, and researchers—identify suitable sites for stormwater retention, analyze drainage, and make informed decisions for water management and infrastructure planning.**
+
 This project is a Python-based Jupyter notebook for instant topographic analysis using global Digital Elevation Model (DEM) data. It helps users analyze slope, flow accumulation, and Topographic Wetness Index (TWI) for any location, and overlays building footprints to support decisions on stormwater retention and drainage.
 
 ## Features
